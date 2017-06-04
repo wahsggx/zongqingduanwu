@@ -1,0 +1,15 @@
+1.-webkit-font-smoothing 是非标准的css3属性，对字体进行抗锯齿渲染，使字体看起来会更舒服。用以下两种定义进行抗锯齿渲染。
+（1）Webkit在自己的引擎中支持了这一效果。
+
+-webkit-font-smoothing
+
+它有三个属性值：
+
+none ------ 对低像素的文本比较好
+
+subpixel-antialiased------默认值
+
+antialiased ------抗锯齿很好 
+详见：http://www.cnblogs.com/moqiutao/p/5291881.html
+
+2.
